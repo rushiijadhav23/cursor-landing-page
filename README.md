@@ -7,7 +7,7 @@
 ## Live URL
 
 <!-- Add your deployed link here when ready -->
-**Live URL:** _[Add your live URL here]_
+**Live URL:** https://rushiijadhav23.github.io/cursor-landing-page/
 
 > **Tip:** For the best viewing experience, open the URL in your browser with **zoom set to 100%**.
 
