@@ -62,6 +62,7 @@ Defined in `style.css` via CSS custom properties (`:root`):
 
 ## Screenshot
 
+<img width="1918" height="1165" alt="Screenshot 2026-02-07 at 08 35 00" src="https://github.com/user-attachments/assets/c9ac52fe-8b82-4a99-9379-177130722df8" />
 
 
 ---
